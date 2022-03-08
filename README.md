@@ -1,6 +1,6 @@
 # FLUENCE MEMES
 
-The goal is to create memes that capture the Web3 and Fluence spirit.
+The goal is to create memes that capture the Web3 and Fluence spirit. And have fun!
 
 
 ![](fluence-meme-1.png)
@@ -9,7 +9,7 @@ The goal is to create memes that capture the Web3 and Fluence spirit.
 ![](fluence-meme-2.png)
 
 
-![](fluence-safe-meme-3.png)
+![](fluence-meme-3.png)
 
 
 ![](fluence-meme-4.png)
